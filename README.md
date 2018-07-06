@@ -1,5 +1,7 @@
 # california-housing-value
-This repository is based on the programming exercises found in the Machine Learning Crash Course provided by Google Developers
+This repository is based on the programming exercises found in the Machine Learning Crash Course provided by Google Developers. You may follow the course at
+
+https://developers.google.com/machine-learning/crash-course/
 
 Copyright 2017 Google LLC. 
 Licensed under the Apache License, Version 2.0 (the "License");
